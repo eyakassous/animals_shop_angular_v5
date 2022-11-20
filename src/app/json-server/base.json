@@ -1,0 +1,33 @@
+{
+    "produits":[
+        {"id":1,"libelle":"Pet Travel Carrier","photo":"assets/images/carrierpets.jpg","color":"blue","disponible":true,"prix":150,"dimension":"17.91'L x 11.5'W x 12'H","brand":"MidWest Homes for Pets","materiel":"Plastique"},
+        {"id":2,"libelle":"NICHE CHALET LG","photo":"assets/images/niche.jpg","dimension":"84X101X86","disponible":false,"prix":800,"brand":"MidWest Homes for Pets","materiel":"Bois","color":"beige et blue"},
+        {"id":3,"libelle":"TAPIS VOITURE 1 PLACE","photo":"assets/images/tapis.jpg","dimension":"84X101X86","brand":"MSA","materiel":"coton","disponible":true,"prix":44.500,"color":"blue"},
+        {"id":4,"libelle":"COLLIER CUIR EDINBURGH ","photo":"assets/images/collier.jpg","dimension":"20-30X10","brand":"MASBRILL","materiel":"Cuir","disponible":true,"color":"blue","prix":30},
+        {"id":5,"libelle":"CEINTURE DE SECURITE VOITURE","photo":"assets/images/ceinture.jpg","dimension":"20MM","brand":"MASBRILL","materiel":"Cuir","disponible":true,"color":"Noir","prix":20},
+        {"id":6,"libelle":"Gilet de chien","photo":"assets/images/padded.webp","dimension":"M","brand":"EzyDog","materiel":"Néoprène","disponible":true,"color":"grey","prix":55.500},
+        {"id":7,"libelle":"TAPIS DE GRATTAGE ESSENCE NOCE","photo":"assets/images/tapiscat.jpg","dimension":"M","brand":"PETTOM","materiel":"Sisal","disponible":true,"color":"Sable","prix":24.900},
+        {"id":8,"libelle":"CAT COLLAR CATMANIA SUSHI","photo":"assets/images/catcoll.jpg","dimension":"10-10X20","brand":"MASBRILL","materiel":"coton","disponible":true,"color":"Yellow","prix":15.500},
+        {"id":9,"libelle":"COLLIER CHAT PAPILLON","photo":"assets/images/papillon.jpg","dimension":"10-10X20","brand":"MASBRILL","materiel":"Coton","disponible":true,"color":"blue","prix":25.900},
+        {"id":10,"libelle":"MAISON DE TOILETTE","photo":"assets/images/toilette.jpg","dimension":"35-36X47","brand":"CROCI","materiel":"Plaqtique","disponible":true,"color":"Maron & Rose","prix":60},
+        {"id":11,"libelle":"BAC À LITIÈRE FIGARO AVEC BORD SAVIC","photo":"assets/images/litier.jpg","dimension":"20-36X30","brand":"CROCI","materiel":"Plastique","disponible":true,"color":"Blanc & gris","prix":55.500},
+        {"id":12,"libelle":"CAT SCRAPERS NATURAL MAGNOLIA","photo":"assets/images/catjouet.jpg","dimension":"45X45X90","brand":"CROCI","materiel":"Bois & Frondes ","disponible":true,"color":"Maron","prix":99.500}
+    ],
+   
+    "alimentations":[
+        {"id":1,"libelle":"PRO CHOICE GF PÂTE CHAT POISSON","photo":"assets/images/alim1.jpg","quantite":100,"disponible":true,"prix":5.200,"dateFab":"18/03/2021","datefin":"17/08/2024"},
+        {"id":1,"libelle":"PÂTÉ ET MORCEAUX SAUMON FRAÎCHE","photo":"assets/images/patecat.jpg","quantite":100,"disponible":true,"prix":3.200,"dateFab":"08/03/2022","datefin":"20/03/2025"},
+        {"id":1,"libelle":"POCHON PLAISIR SAUMON/CABILLAUD ","photo":"assets/images/pochon.jpg","quantite":100,"disponible":true,"prix":3.200,"dateFab":"01/05/2021","datefin":"18/04/2023"},
+        {"id":1,"libelle":"SIMBA CAT WITH TUNA/WHITEFISH","photo":"assets/images/tuna.jpg","quantite":200,"disponible":true,"prix":8.200,"dateFab":"18/07/2022","datefin":"18/10/2025"},
+        {"id":1,"libelle":"KIPPY CAT BOEUF ","photo":"assets/images/boeuf.jpg","quantite":200,"disponible":true,"prix":10.900,"dateFab":"30/04/2020","datefin":"20/10/2023"},
+        {"id":1,"libelle":"SERRANO SNACK THON SAUMON ","photo":"assets/images/croquette.jpg","quantite":100,"disponible":true,"prix":9.750,"dateFab":"22/05/2020","datefin":"01/01/2022"},
+        {"id":1,"libelle":"BOITE CLAUDER'S CANARD ","photo":"assets/images/alimchien.jpg","quantite":200,"disponible":true,"prix":19.750,"dateFab":"13/12/2021","datefin":"04/04/2024"},
+        {"id":1,"libelle":"BURGER CAT PATE POULET","photo":"assets/images/kippy.jpg","quantite":100,"disponible":true,"prix":14.000,"dateFab":"02/11/2021","datefin":"25/08/2023"},
+        {"id":1,"libelle":"PRO CHOICE GF PÂTE CHIEN POULET","photo":"assets/images/prochien.jpg","quantite":100,"disponible":true,"prix":6.000,"dateFab":"02/02/2022","datefin":"18/03/2025"},
+        {"id":1,"libelle":"BOITE KIPPY PUPPY DINDE POMME","photo":"assets/images/kindy.jpg","quantite":200,"disponible":true,"prix":6.900,"dateFab":"20/11/2022","datefin":"12/12/2024"},
+        {"id":1,"libelle":"CARNILOVE BOITE SANGLIER AGNEAU","photo":"assets/images/boite.jpg","quantite":200,"disponible":true,"prix":12.000,"dateFab":"03/01/2021","datefin":"20/04/2023"},
+        {"id":1,"libelle":"SP.DOG EXC.POCHON MEDIUM SENIOR POULET","photo":"assets/images/sp.jpg","quantite":100,"disponible":true,"prix":20.900,"dateFab":"22/11/2021","datefin":"10/06/2024"}
+    ]
+
+}
+
